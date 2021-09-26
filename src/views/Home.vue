@@ -294,7 +294,7 @@ export default {
         launch: "https://nervtek-registration.web.app/",
       },
       {
-        title: "Opent Talk",
+        title: "Open Talk",
         description: `This is a demo react native project.`,
         technologies: ["👉 React Native CLI"],
         pics: [
@@ -309,6 +309,27 @@ export default {
         ],
         repo: "https://github.com/Sir-Deon/OpenTalk",
         launch: "",
+      },
+      {
+        title: "Tesla Clone",
+        description: `This is a demo react native project.`,
+        technologies: ["👉 React Native expo"],
+        pics: ["/tesla.jpeg"],
+        repo: "https://github.com/Sir-Deon/Tesla-clone",
+        launch: "",
+      },
+      {
+        title: "Crytoverse",
+        description: `Out of my urge to learn about crypto i got to understand Rapid API with the help of youtube, by building this  Demo crypto info application`,
+        technologies: ["👉 ReactJs", "👉 Rapid Api", "👉 Redux Toolkit"],
+        pics: [
+          "/crypto.png",
+          "/cryptoverse.png",
+          "/crypto2.png",
+          "/crypto3.png",
+        ],
+        repo: "https://github.com/Sir-Deon/cryptoverse",
+        launch: "https://mycryptoapp-1b9f0.web.app",
       },
     ],
   }),
